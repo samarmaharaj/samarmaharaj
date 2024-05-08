@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Lets Build Something Cool and Great!</h2>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://giphy.com/gifs/space-astronomy-vVtI6TVa5qf7i"/>
+  <img height="50" src="https://tenor.com/opke.gif"/>
 </a>
 <div align="center">
 <a href="https://www.instagram.com/samar_maharaj/">
