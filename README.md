@@ -3,8 +3,8 @@
 </p>
 <h2 align="center">Lets Build Something Cool and Great!</h2>
 
-<div align="center">
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
