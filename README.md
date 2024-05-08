@@ -72,7 +72,5 @@ hobbies: ["Ebook Downloading", "Book reading", "Talking to loved ones", "Be in N
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?text=Let's%20Connect!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?samarmaharaj=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
