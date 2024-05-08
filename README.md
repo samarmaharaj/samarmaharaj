@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **samarmaharaj/samarmaharaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: On IG as @samarmaharaj
 - 😄 Pronouns: samar-ma-ha-raj
 - ⚡ Fun fact: I'm 17
--->
+
