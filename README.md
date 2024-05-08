@@ -74,3 +74,5 @@ hobbies: ["Ebook Downloading", "Book reading", "Talking to loved ones", "Be in N
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?samarmaharaj=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
