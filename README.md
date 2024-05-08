@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=HeyEveryone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=heyEveryone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h2 align="center">Lets Build Something Cool and Great!</h2>
 
@@ -17,12 +17,11 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 </div>
----
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
+name: samarKumar
 located_in: Calgary, Alberta
 current_job: Full Stack Developer
 education:
