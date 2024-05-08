@@ -4,18 +4,7 @@
 <h2 align="center">Lets Build Something Cool and Great!</h2>
 
 <div align="center">
-<a href="https://www.instagram.com/samar_maharaj/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="https://www.youtube.com/@feralick">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Youtube-512.png"/>
-</a>
-<a href="https://www.linkedin.com/in/samar-maharaj-228630206/">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/LinkedIn-512.png"/>
-</a>
-<a href="https://twitter.com/MaharajSamar">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
+
 </div>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -70,7 +59,7 @@ hobbies: ["Ebook Downloading", "Book reading", "Talking to loved ones", "Be in N
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
-
+<hr>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Let's%20Connect!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
