@@ -73,8 +73,6 @@ hobbies: ["Ebook Downloading", "Book reading", "Talking to loved ones", "Be in N
 </a>
 <a href="https://www.linkedin.com/in/samar-maharaj-228630206/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/LinkedIn-512.png"/>
-<a></div>
-              
 </a>
 <a href="https://twitter.com/MaharajSamar">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
