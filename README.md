@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
@@ -72,6 +73,8 @@ hobbies: ["Ebook Downloading", "Book reading", "Talking to loved ones", "Be in N
 </a>
 <a href="https://www.linkedin.com/in/samar-maharaj-228630206/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/LinkedIn-512.png"/>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="samar-maharaj-228630206" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/samar-maharaj-228630206?trk=profile-badge">Samar Maharaj</a></div>
+              
 </a>
 <a href="https://twitter.com/MaharajSamar">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
