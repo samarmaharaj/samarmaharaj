@@ -12,11 +12,11 @@
 
 ```yaml
 name: Samar Kumar
-located_in: Hamirpur, Himachal Pradesh
+located_in: Noida
 currentStatus: Student
 education:
   [
-    "Self-Taught Developer",
+    "Self-Taught Developer/;",
     "BTech in Computer Science and Engineering",
     "National Institutes of Technology, Hamirpur"
   ]
@@ -26,15 +26,17 @@ fields_of_interests:
     "Web Development",
     "Cyber Security",
     "Machine Learning",
+    "Financial Market",
   ]
+
 technical_background:
   [
     "Full Stack Developer"
   ]
   
 currently_learning: ["Python, MERN stack, Youtube Content Creator"]
-2024 Goals: ["Create 100+ Projects in Python"]
-hobbies: ["Ebook Downloading", "Book reading", "Talking to loved ones", "Be in Nature"]
+2025 Goals: ["Get in shape", "Building Compilers", "Building Computer from Scratch", "Solve 240+ LeetCode", "Continue Seeking Truth of Life"]
+talk to me About : ["world History", "Science", "cosmos", "philosophy", "Pyshcology", "Geography", "Religion"]
 ```
   
 ---  
