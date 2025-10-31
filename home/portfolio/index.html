@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cosmos to Ground Journey</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body, html {
+      height: 100%;
+      scroll-behavior: smooth;
+      overflow-x: hidden;
+      font-family: sans-serif;
+    }
+
+    /* Container for stacking sections */
+    .section {
+      height: 100vh;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-size: 3rem;
+      font-weight: bold;
+      position: relative;
+      z-index: 1;
+    }
+
+    /* Background layers */
+    .parallax {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+      background-position: center;
+      z-index: 0;
+      will-change: transform;
+    }
+
+    /* Sections */
+    #cosmos   { background: transparent; }
+    #clouds   { background: transparent; }
+    #mountain { background: transparent; }
+    #forest   { background: transparent; }
+    #ground   { background: transparent; color: #222; }
+
+    /* Background images (you can replace with your own or AI-generated) */
+    .bg-cosmos   { background-image: url('https://images.unsplash.com/photo-1475222977055-d7fcd698b002?auto=format&fit=crop&w=1950&q=80'); z-index: -5; }
+    .bg-clouds   { background-image: url('https://images.unsplash.com/photo-1499346030926-9a72daac6c63?auto=format&fit=crop&w=1950&q=80'); z-index: -4; }
+    .bg-mountain { background-image: url('https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=1950&q=80'); z-index: -3; }
+    .bg-forest   { background-image: url('https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?auto=format&fit=crop&w=1950&q=80'); z-index: -2; }
+    .bg-ground   { background-image: url('https://images.unsplash.com/photo-1600508771841-3c121dc9c62b?auto=format&fit=crop&w=1950&q=80'); z-index: -1; }
+
+    .overlay {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.4);
+      z-index: 0;
+    }
+
+    h1 {
+      position: relative;
+      z-index: 2;
+      text-shadow: 2px 2px 10px black;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Parallax background layers -->
+  <div class="parallax bg-cosmos"></div>
+  <div class="parallax bg-clouds"></div>
+  <div class="parallax bg-mountain"></div>
+  <div class="parallax bg-forest"></div>
+  <div class="parallax bg-ground"></div>
+
+  <!-- Sections -->
+  <section class="section" id="cosmos"><h1>🌌 Cosmos</h1><div class="overlay"></div></section>
+  <section class="section" id="clouds"><h1>☁️ Clouds</h1><div class="overlay"></div></section>
+  <section class="section" id="mountain"><h1>🏔️ Mountains</h1><div class="overlay"></div></section>
+  <section class="section" id="forest"><h1>🌲 Forest</h1><div class="overlay"></div></section>
+  <section class="section" id="ground"><h1>🌍 Ground</h1><div class="overlay"></div></section>
+
+</body>
+</html>
